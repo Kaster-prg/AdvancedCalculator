@@ -1,4 +1,4 @@
-README.MD
+**Advanced Calculator**
 
 Welcome to my first project that I created in 2019.
 Programmed in Python, It fulfils many functions that I found useful in College.
